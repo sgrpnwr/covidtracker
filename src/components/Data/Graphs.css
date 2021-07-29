@@ -1,0 +1,21 @@
+
+.graph{
+    width:50%;
+    margin: 20px;
+  box-shadow: 1px 1px 15px cyan;
+  box-sizing: border-box;
+  border:2px solid;
+  border-radius:20px;
+  font-size:0.7rem;
+  height:50vh;
+  animation:fadein 1s;
+  animation:comefromright 2s;
+}
+
+@media (max-width:1100px) {
+    
+    .graph{
+      width:90vw;
+      margin:auto;
+  }
+}

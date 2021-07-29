@@ -1,0 +1,35 @@
+.header
+{
+    font-size: 4vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(60, 65, 92);
+  height: 200px;
+  box-shadow: 5px white;
+  margin: 20px;
+  color:white;
+  border:2px solid white;
+  border-radius:20px;
+  
+  background: linear-gradient(to right, rgb(60, 65, 92,0.9) 0%, rgb(60, 65, 92,0.9) 100%),url("https://education.rajasthan.gov.in/content/dam/doitassets/education/medicaleducation/gmc-kota/pdf/studentpanel/covid19/giphy11.gif") center;  
+background-size: 50vh;
+
+}
+.india{
+    color:rgb(95, 209, 194);
+}
+
+
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}

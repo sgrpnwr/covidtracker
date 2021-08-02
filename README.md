@@ -1,4 +1,4 @@
-Deployed APP Link: cvd19india.herokuapp.com
+Deployed APP Link: https://cvd19india.herokuapp.com
 
 
 
